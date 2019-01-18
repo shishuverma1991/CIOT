@@ -1,2 +1,2 @@
 # CIOT
-CIOT project pocs
+CIOT project pocs based on spring and spring cloud.
